@@ -23,7 +23,7 @@ main {
 }
 
 a.photo {
-  transition: padding 0.5s;
+  transition: padding 0.25s;
 }
 
 a.photo:hover {
